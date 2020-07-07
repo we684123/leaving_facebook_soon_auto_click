@@ -5,6 +5,7 @@
 // @author       we684123
 // @match        https://www.facebook.com/flx/warn/?*
 // @grant        none
+// @namespace    https://github.com/we684123/leaving_facebook_soon_auto_click
 // ==/UserScript==
 //Github - https://github.com/we684123/leaving_facebook_soon_auto_click
 
